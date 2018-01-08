@@ -10,7 +10,7 @@ This repository contains PyTorch implementation of several deep models. Training
 ![alt text](https://github.com/s1155026040/PyTorch-deep-networks/blob/master/figures/fpn1.png)
 
 ## Capsule Network  
-The implementation is based on [Dynamic Routing between Capsules](https://arxiv.org/abs/1710.09829)
+The implementation is based on [Dynamic Routing between Capsules](https://arxiv.org/abs/1710.09829) and a PyTorch implementation [capsule-networks](https://github.com/gram-ai/capsule-networks.git)
 
 ![alt text](https://github.com/s1155026040/PyTorch-deep-networks/blob/master/figures/capsule1.png)
 ![alt text](https://github.com/s1155026040/PyTorch-deep-networks/blob/master/figures/capsule2.png)
