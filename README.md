@@ -17,7 +17,7 @@ This implements DenseNet enriched with Feature Pyramid Network Architecture. The
 ## Capsule Network  
 The implementation is based on [Dynamic Routing between Capsules](https://arxiv.org/abs/1710.09829) and an improvement of a PyTorch implementation [capsule-networks](https://github.com/gram-ai/capsule-networks.git)
 
-<img src="https://github.com/s1155026040/PyTorch-deep-networks/blob/master/figures/capsule.png" alt="alt text" width=600 height=600> 
+<img src="https://github.com/s1155026040/PyTorch-deep-networks/blob/master/figures/capsule.png" alt="alt text" width=700 height=600> 
  
 
 The main source code is in "src" folder. The model files are in "models" folder. Change "src/train_capsule.py" accordingly to use different models. 
